@@ -1,5 +1,5 @@
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
 
 // Variables
 @import 'variables';
@@ -22,5 +22,6 @@ body, html{
 
 
 .accueilNavbar{
-    font-size: 30px;
+    font-size: 22px;
+    // font-weight: 700;
 }
