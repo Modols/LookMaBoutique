@@ -95,3 +95,16 @@ body, html{
 .vertical-line{
     border-left: 2px solid #000;
 }
+
+.accueilFooter{
+    height: 50%;
+    width: 100%;
+    background-color: red;
+}
+
+.accueilFooterSocialMedia{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

@@ -10915,3 +10915,9 @@ body, html {
 .vertical-line {
   border-left: 2px solid #000;
 }
+
+.accueilFooter {
+  height: 50%;
+  width: 100%;
+  background-color: red;
+}

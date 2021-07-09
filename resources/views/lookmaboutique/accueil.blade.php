@@ -94,6 +94,6 @@
         </div>
     </section>
     
-    {{-- @include('lookmaboutique.partials.footer') --}}
+    @include('lookmaboutique.partials.footer')
 </body>
 </html>
