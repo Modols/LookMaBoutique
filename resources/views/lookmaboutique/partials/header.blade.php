@@ -6,11 +6,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-<<<<<<< HEAD
                 <li class="nav-item fs-4">
-=======
-                <li class="nav-item">
->>>>>>> 5b65223b28a262b3450635ca6227beba45c328f3
                     <a class="nav-link active" aria-current="page" href="#">Accueil</a>
                 </li>
                 <li class="nav-item fs-4">
