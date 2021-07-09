@@ -13,6 +13,15 @@ body, html{
     width: 100%;
 }
 
+.navbar-brand {
+    font-family: 'Righteous', cursive;
+}
+
+// .accueilNavbar {
+//     font-size: 22px;
+//     // font-weight: 700;
+// }
+
 .accueilHeader {
     background-image: url('/images/imgAccueil.jpg');
     height: 100%;
@@ -80,11 +89,3 @@ body, html{
     width: 50%;
 }
 
-.navbar-brand {
-    font-family: 'Righteous', cursive;
-}
-
-// .accueilNavbar {
-//     font-size: 22px;
-//     // font-weight: 700;
-// }
