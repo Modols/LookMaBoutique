@@ -48,10 +48,10 @@
                                 </p>
                             </div>
                             <div class="card-footer accueilCardPrice text-muted">
-                                    <span class="accueilCardPriceLeft" style="color: rebeccapurple">Gratuit</span>
-                                    <span class="accueilCardPriceRight">
-                                        <button type="button" class="btn btn-primary">J'essaye</button>
-                                    </span>
+                                <span class="accueilCardPriceLeft" style="color: rebeccapurple">Gratuit</span>
+                                <span class="accueilCardPriceRight">
+                                    <button type="button" class="btn btn-primary">J'essaye</button>
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -68,9 +68,6 @@
                                 <span>Publication en ligne </span> 
                                 <span>Theme couleur</span> 
                                 <span>Support</span> 
-                                {{-- <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a> --}}
                             </div>
                             <hr>
                             <div class="card-body">
@@ -78,16 +75,17 @@
                                     Cette formule vous permettra de publier votre boutique en ligne ainsi que de choisir 
                                     son nom de domaine pour avoir une url personnalisé. <br>
                                     Des thèmes sont aussi disponible pour avoir la boutique qui vous ressemble.
-
+                                    
                                 </p>
                             </div>
-                            <div class="card-footer accueilCardPrice text-muted">
+                            <div class="card-footer accueilCardPrice">
                                 <span class="accueilCardPriceLeft" style="color: rebeccapurple">##€/Mois</span>
-                                <span class="accueilCardPriceRight">##€/An</span> 
-                                <div>
+                                <span class="vertical-line"></span>
+                                <span class="accueilCardPriceRight">##€/An <span style="color: red">-30%</span></span> 
+                                <div style="float: right; width: 50%">
                                     <button type="button" class="btn btn-primary">J'essaye</button>
                                 </div>
-                        </div>
+                            </div>
                         </div>
                     </div>
                     
