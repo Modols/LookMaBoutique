@@ -12,10 +12,15 @@ body, html{
     width: 100%;
 }
 
-.myHeader {
+.accueilHeader {
     background-image: url('/images/imgAccueil.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+.accueilNavbar{
+    font-size: 30px;
 }
