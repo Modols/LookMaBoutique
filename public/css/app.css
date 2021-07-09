@@ -10842,6 +10842,10 @@ body, html {
   font-family: "Righteous", cursive;
 }
 
+.collapse {
+  justify-content: center;
+}
+
 .accueilNavbar {
   z-index: 1;
 }
@@ -10920,4 +10924,11 @@ body, html {
   height: 50%;
   width: 100%;
   background-color: red;
+}
+
+.accueilFooterSocialMedia {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
