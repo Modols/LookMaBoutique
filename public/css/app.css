@@ -10891,12 +10891,12 @@ body, html {
 
 .accueilCardPriceLeft {
   float: left;
-  width: 50%;
+  width: 45%;
 }
 
 .accueilCardPriceRight {
   float: right;
-  width: 50%;
+  width: 45%;
 }
 
 .accueilNavbar {
@@ -10906,4 +10906,8 @@ body, html {
 .navbar-brand {
   font-family: "Righteous", cursive;
   font-size: 30px;
+}
+
+.vertical-line {
+  border-left: 2px solid #000;
 }
