@@ -15,7 +15,7 @@
         <div class="accueilTitlePage">
             <h1 class="accueilTitle text-white fw-bold ">Créer sa boutique n'a jamais été aussi simple.</h1>
             <br>
-            <a type="button" href="#accueilSectionGradiantID" class="btn btn-primary fw-bold fs-3">Lancez-vous</a>
+            <a type="button" href="#accueilSectionGradiantID" style="font-weight: 600;" class="btn btn-primary fs-3">Lancez-vous</a>
             
         </div>
     </div>  
