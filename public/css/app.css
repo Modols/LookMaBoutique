@@ -10838,6 +10838,10 @@ body, html {
   width: 100%;
 }
 
+.navbar-brand {
+  font-family: "Righteous", cursive;
+}
+
 .accueilHeader {
   background-image: url("/images/imgAccueil.jpg");
   height: 100%;
@@ -10899,10 +10903,12 @@ body, html {
   width: 45%;
 }
 
-.navbar-brand {
-  font-family: "Righteous", cursive;
-}
-
 .vertical-line {
   border-left: 2px solid #000;
+}
+
+.accueilFooter {
+  height: 50%;
+  width: 100%;
+  background-color: red;
 }
