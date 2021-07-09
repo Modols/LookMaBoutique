@@ -6,13 +6,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link active fs-2" aria-current="page" href="#">Accueil</a>
+                <li class="nav-item fs-4">
+                    <a class="nav-link active" aria-current="page" href="#">Accueil</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item fs-4">
                     <a class="nav-link" href="#">Créations</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item fs-4">
                     <a class="nav-link" href="#">A propos</a>
                 </li>
             </ul>

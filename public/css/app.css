@@ -10838,12 +10838,25 @@ body, html {
   width: 100%;
 }
 
+.navbar-brand {
+  font-family: "Righteous", cursive;
+}
+
+.accueilNavbar {
+  z-index: 1;
+}
+
 .accueilHeader {
   background-image: url("/images/imgAccueil.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.accueilTitle {
+  font-size: 55px;
+  z-index: 2;
 }
 
 .accueilTitlePage {
@@ -10897,8 +10910,4 @@ body, html {
 .accueilCardPriceRight {
   float: right;
   width: 50%;
-}
-
-.navbar-brand {
-  font-family: "Righteous", cursive;
 }
