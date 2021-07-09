@@ -7,7 +7,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link  fs-1" aria-current="page" href="#">Accueil</a>
+                    <a class="nav-link active fs-2" aria-current="page" href="#">Accueil</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Créations</a>

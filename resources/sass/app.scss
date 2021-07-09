@@ -21,6 +21,65 @@ body, html{
     background-size: cover;
 }
 
+.accueilTitlePage{
+    position: absolute;
+    top: 0;
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.accueilSectionGradiant{
+    height: 100%;
+    width: 100%;
+}
+
+.accueilGradiant{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rebeccapurple;
+}
+
+.accueilCardsAbonnement {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.accueilCardBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.accueilCardPrice{
+    // display: flex;
+    width: 100%;
+    color: black;
+    font-size: 20px;
+    // align-items: center;
+    // justify-content: center;
+    // flex-direction: row;
+}
+
+.accueilCardPriceLeft{
+    float: left;
+    width: 50%;
+}
+
+
+.accueilCardPriceRight{
+    float: right;
+    width: 50%;
+}
+
 .navbar-brand {
     font-family: 'Righteous', cursive;
 }
