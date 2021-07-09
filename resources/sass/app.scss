@@ -96,9 +96,8 @@ body, html{
 }
 
 .accueilFooter{
-    height: 50%;
+    height: 30%;
     width: 100%;
-    background-color: red;
 }
 
 .accueilFooterSocialMedia{
@@ -106,4 +105,33 @@ body, html{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+}
+
+.accueilFooterA{
+    margin-left: 10px;
+}
+
+.accueilFooterLook{
+    padding-left: 50px;
+}
+
+.accueilFooterHR{
+    height: 2px !important; 
+    background-color: black; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.accueilFooterFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.vertical-lineFooter{
+    border-left: 2px solid #000;
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
