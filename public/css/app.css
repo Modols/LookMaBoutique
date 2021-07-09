@@ -10842,12 +10842,21 @@ body, html {
   font-family: "Righteous", cursive;
 }
 
+.accueilNavbar {
+  z-index: 1;
+}
+
 .accueilHeader {
   background-image: url("/images/imgAccueil.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.accueilTitle {
+  font-size: 55px;
+  z-index: 2;
 }
 
 .accueilTitlePage {
